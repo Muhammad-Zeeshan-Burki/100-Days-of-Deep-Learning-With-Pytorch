@@ -19,19 +19,12 @@ This challenge is inspired by the #100DaysOfCode movement and adapted for deep l
 
 ---
 
-## 📅 Progress Tracker (Up to Day 9)
+## 📅 Progress Tracker
 
-- ✅ **Day 1**: PyTorch Basics & Autograd  
-- ✅ **Day 2**: Building Neural Network Training Pipelines  
-- ✅ **Day 3**: Implementing Neural Networks from Scratch  
-- ✅ **Day 4**: Understanding Datasets & DataLoaders  
-- ✅ **Day 5**: Exploring the FEMNIST Dataset  
-- ✅ **Day 6**: Concept Revision  
-- ✅ **Day 7**: Optuna - Basic Hyperparameter Tuning  
-- ✅ **Day 8**: Optuna - Best Parameter Search  
-- ✅ **Day 9**: CNN - Pytorch CNN on fashion emnist
-- ✅ **Day 10**: *(Coming soon – stay tuned)*
-> This list will be updated daily.
+All daily notebooks are organized by day with self-explanatory filenames in this repository.  
+Each day adds a new topic, concept, or model — check the files for daily progress!
+
+> ✅ Completed days are available as individual Jupyter Notebooks in the main directory.
 
 ---
 
@@ -53,24 +46,6 @@ This challenge is inspired by the #100DaysOfCode movement and adapted for deep l
 - GANs & Autoencoders  
 - Deployment Techniques (ONNX, TorchServe, etc.)  
 
----
-
-## 📁 Repository Structure
-
-```bash
-100-Days-of-Deep-Learning-With-Pytorch/
-├── Day_1_Pytorch(Start_and_autograd).ipynb
-├── Day_2_Pytorch(making_NN_training_pipeline).ipynb
-├── Day_3_Pytorch.ipynb
-├── Day_4_Pytorch_Dataset&DataLoader.ipynb
-├── Day_5_Pytorch(femnist).ipynb
-├── Day_6_Pytorch(revision).ipynb
-├── Day_7_Pytorch(optuna_Basic_implementation).ipynb
-├── Day_8_Pytorch_implementing_optuna_best_parameters_search.ipynb
-├── Day_9_Pytorch_[Coming_Soon].ipynb
-├── data.csv
-├── enhanced_anxiety_dataset.csv
-└── README.md
 ---
 
 ## 🤝 Contributing
