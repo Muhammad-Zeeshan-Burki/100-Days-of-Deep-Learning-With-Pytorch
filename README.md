@@ -29,8 +29,8 @@ This challenge is inspired by the #100DaysOfCode movement and adapted for deep l
 - ✅ **Day 6**: Concept Revision  
 - ✅ **Day 7**: Optuna - Basic Hyperparameter Tuning  
 - ✅ **Day 8**: Optuna - Best Parameter Search  
-- ✅ **Day 9**: *(Coming soon – stay tuned)*
-
+- ✅ **Day 9**: CNN - Pytorch CNN on fashion emnist
+- ✅ **Day 10**: *(Coming soon – stay tuned)*
 > This list will be updated daily.
 
 ---
