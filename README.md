@@ -57,7 +57,20 @@ This challenge is inspired by the #100DaysOfCode movement and adapted for deep l
 
 ## 📁 Repository Structure
 
-
+```bash
+100-Days-of-Deep-Learning-With-Pytorch/
+├── Day_1_Pytorch(Start_and_autograd).ipynb
+├── Day_2_Pytorch(making_NN_training_pipeline).ipynb
+├── Day_3_Pytorch.ipynb
+├── Day_4_Pytorch_Dataset&DataLoader.ipynb
+├── Day_5_Pytorch(femnist).ipynb
+├── Day_6_Pytorch(revision).ipynb
+├── Day_7_Pytorch(optuna_Basic_implementation).ipynb
+├── Day_8_Pytorch_implementing_optuna_best_parameters_search.ipynb
+├── Day_9_Pytorch_[Coming_Soon].ipynb
+├── data.csv
+├── enhanced_anxiety_dataset.csv
+└── README.md
 ---
 
 ## 🤝 Contributing
